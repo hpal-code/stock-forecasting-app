@@ -1,6 +1,3 @@
-
-👇
-
 📈 Stock Market Forecasting Web App
 
 Deep learning–based stock price forecasting using LSTM, GRU & Transformer models with real-time stock data.
